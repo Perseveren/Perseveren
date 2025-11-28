@@ -8,6 +8,8 @@
   <font color="#632e2e"><strong><em>我不合时宜，你已时日无多</em></strong></font>
 </div>
 
+<br><br>
+ 
 <div align="center">
 Hello, my name is Lin Yi, but you can also call me by the name Cassiel, Vin, or Gyu. I am social awkward, I barely talk but please do not feel threatened if I become too silent, I'm not irritated. Please do be patient with me, I don't like being forced or rushed to talk.<br><br>
 I am 17 years old, I'm friendly (trust me), I barely have a lot of friends, mostly because I don't prefer to approach first. I'm either INTJ, INFJ or INTP (I'm not sure, someone type me)
