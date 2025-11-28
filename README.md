@@ -12,13 +12,13 @@
  
 <div align="center">
 Hello, my name is Lin Yi, but you can also call me by the name Cassiel, Vin, or Gyu. I am social awkward, I barely talk but please do not feel threatened if I become too silent, I'm not irritated. Please do be patient with me, I don't like being forced or rushed to talk.<br><br>
-I am 17 years old, I'm friendly (trust me), I barely have a lot of friends, mostly because I don't prefer to approach first. I'm either INTJ, INFJ or INTP (I'm not sure, someone type me)
+I am 17 years old, I'm friendly (trust me), I barely have a lot of friends, mostly because I don't prefer to approach first. I'm either INTJ, or INTP (I'm not sure, someone type me)
 </div>
 
 
 <br><br>
 <p align="center">
-  <img width="250" height="250" src="https://github.com/Perseveren/Perseveren/blob/main/Untitled109_20251128150948.png?raw=true">
+  <img width="300" height="300" src="https://github.com/Perseveren/Perseveren/blob/main/Untitled109_20251128150948.png?raw=true">
 </p>
 
 <br><br>
