@@ -17,7 +17,11 @@ I am 17 years old, I'm friendly (trust me), I barely have a lot of friends, most
 
 
 <br><br>
+<p align="center">
+  <img width="250" height="250" src="https://github.com/Perseveren/Perseveren/blob/main/Untitled109_20251128150948.png?raw=true">
+</p>
 
+<br><br>
 <div align="center">
   <table>
     <tr>
@@ -26,3 +30,5 @@ I am 17 years old, I'm friendly (trust me), I barely have a lot of friends, most
     </tr>
   </table>
 </div>
+<br><br>
+
