@@ -18,7 +18,7 @@ I am 17 years old, I barely have a lot of friends, mostly because I don't prefer
 
 <br><br>
 <p align="center">
-  <img width="300" height="300" src="https://github.com/Perseveren/Perseveren/blob/main/Untitled109_20251128150948.png?raw=true">
+  <img width="400" height="400" src="https://github.com/Perseveren/Perseveren/blob/main/Untitled109_20251128150948.png?raw=true">
 </p>
 
 <br><br>
