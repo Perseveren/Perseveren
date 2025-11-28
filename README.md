@@ -11,8 +11,8 @@
 <br><br>
  
 <div align="center">
-Hello, my name is Lin Yi, but you can also call me by the name Cassiel, Vin, or Gyu. I am social awkward, I barely talk but please do not feel threatened if I become too silent, I'm not irritated. Please do be patient with me, I don't like being forced or rushed to talk.<br><br>
-I am 17 years old, I'm friendly (trust me), I barely have a lot of friends, mostly because I don't prefer to approach first. I'm either INTJ, or INTP (I'm not sure, someone type me)
+Hello, my name is Lin Yi, but you can also call me by the name Cassiel, Vin, or Gyu. I am socially awkward, I barely talk but please do not feel threatened if I become too silent, I'm not irritated. Please do be patient with me, I don't like being forced or rushed to talk.<br><br>
+I am 17 years old, I barely have a lot of friends, mostly because I don't prefer to approach first. I'm either INTJ, or INTP (I'm not sure, someone type me)
 </div>
 
 
