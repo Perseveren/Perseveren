@@ -32,3 +32,5 @@ I am 17 years old, I am an artist. I usually don't prefer to approach first, so 
 </div>
 <br><br>
 
+<p align="center">
+pics took by Vin
