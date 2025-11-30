@@ -18,7 +18,7 @@ I am 17 years old, I am an artist. I usually don't prefer to approach first, so 
 
 <br><br>
 <p align="center">
-  <img width="400" height="400" src="https://github.com/Perseveren/Perseveren/blob/main/Untitled109_20251128150948.png?raw=true">
+  <img width="350" height="350" src="https://github.com/Perseveren/Perseveren/blob/main/Untitled109_20251128150948.png?raw=true">
 </p>
 
 <br><br>
